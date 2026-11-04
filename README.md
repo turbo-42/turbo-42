@@ -12,7 +12,7 @@ Shopify Plus · Liquid · Shopify apps · NetSuite · 3PL / WMS integrations · 
 
 ### Side projects
 
-- [tv-home](https://github.com/turbo-42/tv-home): a minimal launcher for the Google TV Streamer (Kotlin, Jetpack Compose for TV)
+- [tv-home](https://github.com/turbo-42/tv-home): a minimal launcher for the Google TV Streamer (Kotlin, Jetpack Compose)
 - Claude Code tooling
 
 [LinkedIn](https://www.linkedin.com/in/bruce-walker42/)
