@@ -6,9 +6,13 @@ Shopify Plus · Liquid · Shopify apps · NetSuite · 3PL / WMS integrations · 
 - **ERP and fulfilment:** NetSuite integration and migration, 3PL and WMS integrations, carrier label and shipping services
 - **Platform:** Cloud Run, BigQuery, Pub/Sub, Terraform, Vercel, Auth0, OpenTelemetry
 
+### Open source
+
+- Shopify theme (Liquid) support for [Floorplan](https://github.com/haydenschmitty/floorplan/pull/81)
+
 ### Side projects
 
-- [tv-home](https://github.com/turbo-42/tv-home): a minimal launcher for the Google TV Streamer (Kotlin, Jetpack Compose)
+- [Orbit](https://github.com/turbo-42/orbit-tv): a calm, dark home screen for the Google TV Streamer (Kotlin, Jetpack Compose)
 - Claude Code tooling
 
 [LinkedIn](https://www.linkedin.com/in/bruce-walker42/)
